@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://daam3w50g5p61"
-path="res://.godot/imported/Idle.png-d3c0d714fc76538c8bd110e48fb09853.ctex"
+uid="uid://bxj6c1xv8neb7"
+path="res://.godot/imported/Attack_2.png-2f9af0eb119137ef3e08263214805cac.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/final sprites/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-d3c0d714fc76538c8bd110e48fb09853.ctex"]
+source_file="res://art/Skeleton_Spearman/Attack_2.png"
+dest_files=["res://.godot/imported/Attack_2.png-2f9af0eb119137ef3e08263214805cac.ctex"]
 
 [params]
 

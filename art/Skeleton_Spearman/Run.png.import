@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bfyoe4i528bjy"
-path="res://.godot/imported/Attack_3.png-2f5ae6f8ecc63b457a0828d246a2347f.ctex"
+uid="uid://c5nqg6yafdf73"
+path="res://.godot/imported/Run.png-02e3a192ad9621c88daab96f4ccef474.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/final sprites/Attack_3.png"
-dest_files=["res://.godot/imported/Attack_3.png-2f5ae6f8ecc63b457a0828d246a2347f.ctex"]
+source_file="res://art/Skeleton_Spearman/Run.png"
+dest_files=["res://.godot/imported/Run.png-02e3a192ad9621c88daab96f4ccef474.ctex"]
 
 [params]
 
