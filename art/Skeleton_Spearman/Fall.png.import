@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cuafnhss47y5f"
-path="res://.godot/imported/Jump.png-166860dd03b801d20f8707c1c9e14712.ctex"
+uid="uid://25jn0xhhagda"
+path="res://.godot/imported/Fall.png-e91e8ba0bd65f54022273c544ae726b6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/final sprites/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-166860dd03b801d20f8707c1c9e14712.ctex"]
+source_file="res://art/Skeleton_Spearman/Fall.png"
+dest_files=["res://.godot/imported/Fall.png-e91e8ba0bd65f54022273c544ae726b6.ctex"]
 
 [params]
 
